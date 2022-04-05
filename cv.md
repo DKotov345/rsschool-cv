@@ -1,4 +1,5 @@
 ### CV
+![Tux, the Linux mascot](https://sun2.beltelecom-by-minsk.userapi.com/s/v1/ig2/ZkSnGG_FsmWhjsVW0STGNzeTisYR2gEYKNp46mn-NxFJxoBIyIQExBAhVxAwB0ORgKEbr0iITpLpgOlSfIVQURzD.jpg?size=200x223&quality=95&crop=0,0,1110,1238&ava=1)
 ##### Dmitry Kotov
 * Contacts
   * Discord: ReeFleX#9810, nickname on server: Dmitry Kotov (@DKotov345)
